@@ -40,7 +40,7 @@ GLOBAL OPTIONS:
 ## Installation
 
 ```
-$ go get github.com/mattn/go-mastodon/cmd/mstdn
+$ go get github.com/misaka00251/go-mastodon/cmd/mstdn
 ```
 
 ## License
